@@ -73,7 +73,9 @@ If enable less secure apps is turned off email will not be send and produce erro
 <pre>
 email.properties.node-url=http://localhost:4200
 </pre>
-This is the most important setup just to provide the angular connectivity for accessing feedback form clicking the email link.
+The above url may change according to the running enviroment. Just like http://localhost:4200 or htp://192.168.1.1:4200 in cloud environment IP.
+
+This is the most important setup just to provide the angular connectivity for accessing feedback form by clicking the email link.
 The above property must be the url of in which angular application will be served on calling from browser.
 
 
