@@ -1,6 +1,6 @@
 # outreach-fms
 
-<h3>First step is to configure the application<h3/>
+<h3>First step is to configure the application</h3>
 
 <b>Configuring application for local setup</b>
 
