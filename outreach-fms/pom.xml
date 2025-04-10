@@ -18,7 +18,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<!-- <jxl.version>2.6.12</jxl.version> -->
-		<poi.version>3.11</poi.version>
+		<poi.version>5.4.0</poi.version>
 	</properties>
 
 	<dependencies>
